@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        // Ejemplo de matriz 3x4
         char[,] matriz = {
             { 'H', 'o', 'l', 'a' },
             { 'M', 'u', 'n', 'd' },
@@ -27,14 +26,9 @@ class Program
         string vocales = "aeiouAEIOU";
 
         for (int i = 0; i < filas; i++)
-        {
             for (int j = 0; j < columnas; j++)
-            {
                 if (vocales.Contains(matriz[i, j]))
-                {
                     matriz[i, j] = 'x';
-                }
-            }
         }
     }
 
@@ -46,9 +40,8 @@ class Program
         for (int i = 0; i < filas; i++)
         {
             for (int j = 0; j < columnas; j++)
-            {
                 Console.Write(matriz[i, j] + " ");
-            }
+                
             Console.WriteLine();
         }
     }

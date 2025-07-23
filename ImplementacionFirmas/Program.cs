@@ -4,7 +4,6 @@ public class ImplementarFirmas
 {
     public static void Main(string[] args)
     {
-        // Invocaciones de ejemplo
         string concatenacion = Concatenar("Hola", " ", "mundo");
         Console.WriteLine(concatenacion);
 
@@ -22,7 +21,6 @@ public class ImplementarFirmas
 
     public static double Fraccionar(string numero)
     {
-        // Intentar convertir la cadena en un número decimal
         if (double.TryParse(numero, out double valor))
             return valor;
         else

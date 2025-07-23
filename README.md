@@ -50,7 +50,6 @@ public class ImplementarFirmas
 {
     public static void Main(string[] args)
     {
-        // Invocaciones de ejemplo
         string concatenacion = Concatenar("Hola", " ", "mundo");
         Console.WriteLine(concatenacion);
 
@@ -68,7 +67,6 @@ public class ImplementarFirmas
 
     public static double Fraccionar(string numero)
     {
-        // Intentar convertir la cadena en un número decimal
         if (double.TryParse(numero, out double valor))
             return valor;
         else
@@ -93,7 +91,6 @@ class Program
 {
     static void Main()
     {
-        // Ejemplo de matriz 3x4
         char[,] matriz = {
             { 'H', 'o', 'l', 'a' },
             { 'M', 'u', 'n', 'd' },
@@ -116,15 +113,9 @@ class Program
         string vocales = "aeiouAEIOU";
 
         for (int i = 0; i < filas; i++)
-        {
             for (int j = 0; j < columnas; j++)
-            {
                 if (vocales.Contains(matriz[i, j]))
-                {
                     matriz[i, j] = 'x';
-                }
-            }
-        }
     }
 
     static void ImprimirMatriz(char[,] matriz)
@@ -135,9 +126,8 @@ class Program
         for (int i = 0; i < filas; i++)
         {
             for (int j = 0; j < columnas; j++)
-            {
                 Console.Write(matriz[i, j] + " ");
-            }
+                
             Console.WriteLine();
         }
     }
@@ -159,21 +149,16 @@ class Program
         Console.Write("Ingresa una cadena de números enteros positivos separados por espacios: ");
         string input = Console.ReadLine();
 
-        // Intentar convertir la cadena a un array de enteros
         int[] numeros = ObtenerArrayDesdeCadena(input);
 
         if (numeros != null)
         {
             Console.WriteLine("Array generado:");
             foreach (int num in numeros)
-            {
                 Console.Write(num + " ");
-            }
         }
         else
-        {
             Console.WriteLine("La cadena contiene elementos que no son números enteros positivos.");
-        }
     }
 
     static int[] ObtenerArrayDesdeCadena(string cadena)
@@ -185,9 +170,8 @@ class Program
         {
             bool esNumero = int.TryParse(partes[i], out int valor);
             if (!esNumero || valor <= 0)
-            {
-                return null; // error si no es un número o si no es positivo
-            }
+                return null; 
+                
             numeros[i] = valor;
         }
 
@@ -208,10 +192,8 @@ class Program
 {
     static void Main()
     {
-        // Array de ejemplo
         long[] numeros = { 1500, 9876543210, 3, 789, 1234567890123, 42 };
 
-        // Obtener mayor y menor
         long mayor = EncontrarMayor(numeros);
         long menor = EncontrarMenor(numeros);
 
@@ -223,10 +205,9 @@ class Program
     {
         long max = array[0];
         foreach (long num in array)
-        {
             if (num > max)
                 max = num;
-        }
+                
         return max;
     }
 
@@ -234,10 +215,9 @@ class Program
     {
         long min = array[0];
         foreach (long num in array)
-        {
             if (num < min)
                 min = num;
-        }
+                
         return min;
     }
 }
@@ -265,9 +245,7 @@ class Program
         int suma = 0;
 
         foreach (int num in numeros)
-        {
             suma += num;
-        }
 
         Console.WriteLine("La suma total es: " + suma);
     }
@@ -307,45 +285,97 @@ Console.WriteLine(aprobado ? "Aprobado" : "Reprobado");
 ## 4. 20 Firmas
 
 ```c#
-public void DoSomething() {}
+public void DoSomething() 
+{
+    Console.WriteLine("Doing something...");
+}
 
-private int CalculateSum(int a, int b) {}
+private int CalculateSum(int a, int b) 
+{
+    return a + b;
+}
 
-protected static string GetName() {}
+protected static string GetName() 
+{
+    return "DefaultName";
+}
 
-internal virtual bool IsValid(string input) {}
+internal virtual bool IsValid(string input) 
+{
+    return !string.IsNullOrWhiteSpace(input);
+}
 
-protected internal override void OnStart() {}
+protected internal override void OnStart() 
+{
+    Console.WriteLine("Started.");
+}
 
-private protected async Task<int> FetchDataAsync(string url) {}
+private protected async Task<int> FetchDataAsync(string url) 
+{
+    await Task.Delay(500);
+    return 200;
+}
 
-public static List<string> GetList(int count) {}
+public static List<string> GetList(int count) 
+{
+    return Enumerable.Repeat("Item", count).ToList();
+}
 
 private extern void ExternalMethod();
 
-public async Task SaveAsync(string path, byte[] data) {}
+public async Task SaveAsync(string path, byte[] data) 
+{
+    await File.WriteAllBytesAsync(path, data);
+}
 
 protected abstract void Initialize();
 
-internal string FormatMessage(string msg, int repeat = 1) {}
+internal string FormatMessage(string msg, int repeat = 1) 
+{
+    return string.Concat(Enumerable.Repeat(msg, repeat));
+}
 
-private protected static bool TryParse(string input, out int result) {}
+private protected static bool TryParse(string input, out int result) 
+{
+    return int.TryParse(input, out result);
+}
 
-public void LogMessage(ref string message) {}
+public void LogMessage(ref string message) 
+{
+    Console.WriteLine(message);
+    message += " [logged]";
+}
 
-protected internal int AddNumbers(params int[] numbers) {}
+protected internal int AddNumbers(params int[] numbers) 
+{
+    return numbers.Sum();
+}
 
 internal abstract Task ProcessAsync(CancellationToken token);
 
-public static T GetDefault<T>() {}
+public static T GetDefault<T>() 
+{
+    return default!;
+}
 
-internal protected virtual List<int> GenerateSequence(int start, int count) {}
+internal protected virtual List<int> GenerateSequence(int start, int count) 
+{
+    return Enumerable.Range(start, count).ToList();
+}
 
-public sealed override string ToString() => base.ToString();
+public sealed override string ToString() => base.ToString() => base.ToString();
 
-private protected void ConfigureSettings(Dictionary<string, string> settings) {}
+private protected void ConfigureSettings(Dictionary<string, string> settings) 
+{
+    foreach (var pair in settings)
+        Console.WriteLine($"{pair.Key} = {pair.Value}");
+}
 
-public async Task<bool> ValidateAsync(string input, int minLength, CancellationToken token) {}
+public async Task<bool> ValidateAsync(string input, int minLength, CancellationToken token) 
+{
+    await Task.Delay(50, token);
+    return input?.Length >= minLength;
+}
 
 ```
 
