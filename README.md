@@ -293,7 +293,9 @@ Console.WriteLine(aprobado ? "Aprobado" : "Reprobado");
 
 ## 2. Actividad interactiva
 
-Ahorcado
+### Ahorcado
+
+<img width="1618" height="503" alt="Screenshot 2025-07-23 072349" src="https://github.com/user-attachments/assets/7c43120f-4122-4918-85e6-9ec479479c4a" />
 
 ## 3. Command Challenge
 
