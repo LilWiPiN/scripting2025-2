@@ -1,0 +1,15 @@
+/workspaces/scripting2025-2/ReemplazaMatrix/bin/Debug/net8.0/ReemplazaMatrix
+/workspaces/scripting2025-2/ReemplazaMatrix/bin/Debug/net8.0/ReemplazaMatrix.deps.json
+/workspaces/scripting2025-2/ReemplazaMatrix/bin/Debug/net8.0/ReemplazaMatrix.runtimeconfig.json
+/workspaces/scripting2025-2/ReemplazaMatrix/bin/Debug/net8.0/ReemplazaMatrix.dll
+/workspaces/scripting2025-2/ReemplazaMatrix/bin/Debug/net8.0/ReemplazaMatrix.pdb
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.AssemblyInfoInputs.cache
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.AssemblyInfo.cs
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.csproj.CoreCompileInputs.cache
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.sourcelink.json
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.dll
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/refint/ReemplazaMatrix.dll
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.pdb
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ReemplazaMatrix.genruntimeconfig.cache
+/workspaces/scripting2025-2/ReemplazaMatrix/obj/Debug/net8.0/ref/ReemplazaMatrix.dll

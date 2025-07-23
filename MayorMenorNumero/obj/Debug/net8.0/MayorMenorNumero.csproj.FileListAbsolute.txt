@@ -1,0 +1,15 @@
+/workspaces/scripting2025-2/MayorMenorNumero/bin/Debug/net8.0/MayorMenorNumero
+/workspaces/scripting2025-2/MayorMenorNumero/bin/Debug/net8.0/MayorMenorNumero.deps.json
+/workspaces/scripting2025-2/MayorMenorNumero/bin/Debug/net8.0/MayorMenorNumero.runtimeconfig.json
+/workspaces/scripting2025-2/MayorMenorNumero/bin/Debug/net8.0/MayorMenorNumero.dll
+/workspaces/scripting2025-2/MayorMenorNumero/bin/Debug/net8.0/MayorMenorNumero.pdb
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.AssemblyInfoInputs.cache
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.AssemblyInfo.cs
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.csproj.CoreCompileInputs.cache
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.sourcelink.json
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.dll
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/refint/MayorMenorNumero.dll
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.pdb
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/MayorMenorNumero.genruntimeconfig.cache
+/workspaces/scripting2025-2/MayorMenorNumero/obj/Debug/net8.0/ref/MayorMenorNumero.dll

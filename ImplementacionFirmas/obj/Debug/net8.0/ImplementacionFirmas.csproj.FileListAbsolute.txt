@@ -1,0 +1,15 @@
+/workspaces/scripting2025-2/ImplementacionFirmas/bin/Debug/net8.0/ImplementacionFirmas
+/workspaces/scripting2025-2/ImplementacionFirmas/bin/Debug/net8.0/ImplementacionFirmas.deps.json
+/workspaces/scripting2025-2/ImplementacionFirmas/bin/Debug/net8.0/ImplementacionFirmas.runtimeconfig.json
+/workspaces/scripting2025-2/ImplementacionFirmas/bin/Debug/net8.0/ImplementacionFirmas.dll
+/workspaces/scripting2025-2/ImplementacionFirmas/bin/Debug/net8.0/ImplementacionFirmas.pdb
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.AssemblyInfoInputs.cache
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.AssemblyInfo.cs
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.csproj.CoreCompileInputs.cache
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.sourcelink.json
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.dll
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/refint/ImplementacionFirmas.dll
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.pdb
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ImplementacionFirmas.genruntimeconfig.cache
+/workspaces/scripting2025-2/ImplementacionFirmas/obj/Debug/net8.0/ref/ImplementacionFirmas.dll

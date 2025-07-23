@@ -1,0 +1,15 @@
+/workspaces/scripting2025-2/Palindromo/bin/Debug/net8.0/Palindromo
+/workspaces/scripting2025-2/Palindromo/bin/Debug/net8.0/Palindromo.deps.json
+/workspaces/scripting2025-2/Palindromo/bin/Debug/net8.0/Palindromo.runtimeconfig.json
+/workspaces/scripting2025-2/Palindromo/bin/Debug/net8.0/Palindromo.dll
+/workspaces/scripting2025-2/Palindromo/bin/Debug/net8.0/Palindromo.pdb
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.AssemblyInfoInputs.cache
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.AssemblyInfo.cs
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.csproj.CoreCompileInputs.cache
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.sourcelink.json
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.dll
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/refint/Palindromo.dll
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.pdb
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/Palindromo.genruntimeconfig.cache
+/workspaces/scripting2025-2/Palindromo/obj/Debug/net8.0/ref/Palindromo.dll

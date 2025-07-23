@@ -1,0 +1,15 @@
+/workspaces/scripting2025-2/CadenaEnteros/bin/Debug/net8.0/CadenaEnteros
+/workspaces/scripting2025-2/CadenaEnteros/bin/Debug/net8.0/CadenaEnteros.deps.json
+/workspaces/scripting2025-2/CadenaEnteros/bin/Debug/net8.0/CadenaEnteros.runtimeconfig.json
+/workspaces/scripting2025-2/CadenaEnteros/bin/Debug/net8.0/CadenaEnteros.dll
+/workspaces/scripting2025-2/CadenaEnteros/bin/Debug/net8.0/CadenaEnteros.pdb
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.AssemblyInfoInputs.cache
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.AssemblyInfo.cs
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.csproj.CoreCompileInputs.cache
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.sourcelink.json
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.dll
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/refint/CadenaEnteros.dll
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.pdb
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/CadenaEnteros.genruntimeconfig.cache
+/workspaces/scripting2025-2/CadenaEnteros/obj/Debug/net8.0/ref/CadenaEnteros.dll
